@@ -14,6 +14,22 @@
 Pro3D is a novel vision-based roadside monocular 3D object detector that establishes new state-of-the-art performance. On the DAIR-V2X-I benchmark, Pro3D demonstrates significant improvements over BEVSpread with margins of **6.4% (vehicle)**, **9.8% (cyclist)**, and **9.3% (pedestrian)** across respective classes.
 
 ![Framework and benchmarking-results of Pro3D](./assets/intro.png)
+
+---
+
+## 🚀 News
+* [2025/11/25] : [arXiv paper](https://arxiv.org/abs/2404.01064) released.
+* [2025/11/22] : Pro3D is accepted to WACV 2026.
+
+---
+
+## 📝 Catalog
+- [ ] Training Code
+- [ ] Checkpoints
+- [ ] Inference Code
+- [x] Jupter Notebok Demo
+- [x] Initialization
+
 ---
 
 ## 🔍 Quick Start: Interactive Demo (Recommended First Step)
